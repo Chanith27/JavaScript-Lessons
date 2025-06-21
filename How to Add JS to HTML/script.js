@@ -1,0 +1,1 @@
+console.log("How to add javascript from external way")
