@@ -33,3 +33,11 @@ console.log("Country:", country);
     let fullName = firstName + " " + lastName;
 
     console.log("Full Name:", fullName);
+
+ // Updating Variables
+    let counter = 0;
+    counter += 1;  // same as counter = counter + 1
+    counter++;     // increment by 1
+    counter--;     // decrement by 1
+
+    console.log("Counter:", counter);
