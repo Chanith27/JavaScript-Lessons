@@ -16,3 +16,20 @@ console.log("Country:", country);
     console.log("Height:", height);
     console.log("Score:", score);
     console.log("Undefined Variable:", undefinedVar);
+
+// Basic Arithmetic Operations
+    let x = 10;
+    let y = 4;
+
+    console.log("Addition:", x + y);         // 14
+    console.log("Subtraction:", x - y);      // 6
+    console.log("Multiplication:", x * y);   // 40
+    console.log("Division:", x / y);         // 2.5
+    console.log("Modulus (Remainder):", x % y);  // 2
+
+    // String Operations
+    let firstName = "Chanith";
+    let lastName = "Adikari";
+    let fullName = firstName + " " + lastName;
+
+    console.log("Full Name:", fullName);
