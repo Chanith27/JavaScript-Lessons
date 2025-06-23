@@ -12,3 +12,11 @@ function greet2(name){
 
 greet2("Chanith");
 greet2("Ravindu");
+
+//functions that create a value
+function addition(a,b){
+  return a + b
+}
+
+let result = addition(3,5)
+console.log(result)
