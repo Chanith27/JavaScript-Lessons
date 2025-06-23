@@ -1,6 +1,6 @@
 //Simple Function to introduce JavaScript Functions
 function greet(){
-  console.log("Hello World!")
+  console.log("Hello World!") //function declaration
 }
 
 greet();
@@ -18,5 +18,5 @@ function addition(a,b){
   return a + b
 }
 
-let result = addition(3,5)
+let result = addition(3,5) //function expression
 console.log(result)
